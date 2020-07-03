@@ -1,0 +1,42 @@
+
+.navstile{
+    background-color: #d5e9f3;
+   
+}
+
+#logonav{
+    height: 85px;
+    width: 85px;
+    
+}
+
+ul li a{
+    color:black !important;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+ul li a:hover{
+    color:white !important;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    transition: 300ms;
+   
+}
+ul li{
+    margin-left: 10px;
+}
+
+#direita{
+    
+    height: 800px;
+    width: 645px;
+      
+}
+#esquerda{
+    
+    height: 800px;
+    width: 675px;
+      
+}
